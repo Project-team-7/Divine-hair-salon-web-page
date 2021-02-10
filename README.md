@@ -17,4 +17,4 @@
 
 - Our project offers the solution to facilitate dealing with salons by application by allowing customers to view the information directly from salon webpage. The application saves time and effort by allowing users to find all salons around them, booking from anywhere, experiment in sharing and knowing all services provided by them. <br />
 
--Our lifestyle has changed due to the use of applications and technology. Due to this lifestyle change customers will have a more enriching salon experience with better ease of use by using the salon webpage. It reduces effort, saves time, and increases customer confidence and retention. Customers can share their experiences, encourages them to renew, organizes salon work, displays all services. <br />
+- Our lifestyle has changed due to the use of applications and technology. Due to this lifestyle change customers will have a more enriching salon experience with better ease of use by using the salon webpage. It reduces effort, saves time, and increases customer confidence and retention. Customers can share their experiences, encourages them to renew, organizes salon work, displays all services. <br />
